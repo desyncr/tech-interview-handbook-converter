@@ -30,7 +30,7 @@ It uses Thor gem to wrap the script and it uses YAML for various configuration (
 ## Project structure
 
 - assets/gh-md.css:
-    - github-markdown styles (taken from some github repo)
+    - github-markdown styles (taken from https://github.com/sindresorhus/github-markdown-css)
 
 - config/config.yml:
     - debug: Whether to output to $output or to stdout (easier to debug)
