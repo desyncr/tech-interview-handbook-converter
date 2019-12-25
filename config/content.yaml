@@ -1,0 +1,53 @@
+- title: Preface
+  blocks:
+    - introduction
+    - landscape
+- title: Job Application
+  blocks:
+    - resume
+    - cover-letter
+- title: Interview Process
+  blocks:
+    - interview-formats
+    - self-introduction
+    - coding-round-overview
+    - picking-a-language
+    - study-and-practice
+    - best-practice-questions
+    - during-coding-interview
+    - cheatsheet
+    - coding-signals
+    - mock-interviews
+    - behavioral-round-overview
+    - star-format
+    - behavioral-questions
+    - psychological-tricks
+    - questions-to-ask
+- title: Post Interview
+  blocks:
+    - understanding-compensation
+    - negotiation
+- title: Algorithms
+  prefix: algorithms
+  blocks:
+    - introduction
+    - array
+    - binary
+    - dynamic-programming
+    - geometry
+    - graph
+    - hash-table
+    - heap
+    - interval
+    - linked-list
+    - math
+    - matrix
+    - oop
+    - permutation
+    - queue
+    - recursion
+    - sorting-searching
+    - stack
+    - string
+    - tree
+    - trie

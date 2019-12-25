@@ -1,0 +1,16 @@
+debug: false
+output: output/book.html
+title: 'Tech Interview Handbook'
+content:
+    toc: ./config/content.yaml
+    directory: 'tech-interview-handbook/contents/'
+    extension: '.md'
+presets:
+   css: './assets/gh-md.css'
+   head: '<head><title>Tech Interview Handbook</title><style>{STYLES}</style></head>'
+   body:
+     start: '<body class="markdown-body">'
+     end: '</body>'
+   section:
+     start: ''
+     end: '<hr>'

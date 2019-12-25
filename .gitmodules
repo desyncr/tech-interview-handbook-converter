@@ -1,0 +1,3 @@
+[submodule "tech-interview-handbook"]
+	path = tech-interview-handbook
+	url = git@github.com:yangshun/tech-interview-handbook.git
