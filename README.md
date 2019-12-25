@@ -1,6 +1,6 @@
 # Tech-interview-handbook converter
 
-This script converts the online tech-interview-handbook into a single-file self-contained html file to be exported as PDF or ePUB.
+This script converts the online [tech-interview-handbook](https://yangshun.github.io/tech-interview-handbook/) into a single-file self-contained html file to be exported as PDF or ePUB.
 
 Warning: It doesn't contains the original styles and there are some conversion issues.
 
