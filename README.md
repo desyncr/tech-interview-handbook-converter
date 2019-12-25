@@ -4,7 +4,7 @@ This script converts the online [tech-interview-handbook](https://yangshun.githu
 
 Warning: It doesn't contains the original styles and there are some conversion issues.
 
-# How to run
+## How to run
 
     $ cd path-to-project/tech-interview-handbook
     $ git submodule init
@@ -15,11 +15,11 @@ Warning: It doesn't contains the original styles and there are some conversion i
 
 The book should be created at output/book.html
 
-# How does it work
+## How does it work
 
 It uses Thor gem to wrap the script and it uses YAML for various configuration (such as title, sections and so on, see: config/)
 
-## Actions
+### Actions
 
 - Loads config/config.yaml to determine various settings
 - Loads config/content.yaml to determine the sections and articles
@@ -27,7 +27,7 @@ It uses Thor gem to wrap the script and it uses YAML for various configuration (
 - Does some pre-parsing (search and replace) over the articles
 - Uses github-markup gem to convert .md to .html
 
-# Project structure
+## Project structure
 
 - assets/gh-md.css:
     - github-markdown styles (taken from some github repo)
