@@ -60,3 +60,17 @@ It uses Thor gem to wrap the script and it uses YAML for various configuration (
 - README.md: This.
 
 - book.thor: Thor's command.
+
+## Feedback
+
+If you'd like to contribute to the project or file a bug or feature request, please visit
+[the project page][1].
+
+
+## License
+
+The project is licensed under the [GNU GPL v3][2] license.
+
+  [1]: https://github.com/desyncr/tech-interview-handbook-converter/
+  [2]: http://www.gnu.org/licenses/gpl.html
+
