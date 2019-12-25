@@ -6,12 +6,12 @@ Warning: It doesn't contains the original styles and there are some conversion i
 
 # How to run
 
-$ cd path-to-project/tech-interview-handbook
-$ git submodule init
+    $ cd path-to-project/tech-interview-handbook
+    $ git submodule init
 
-$ cd path-to-project
-$ bundle install
-$ thor book:build
+    $ cd path-to-project
+    $ bundle install
+    $ thor book:build
 
 The book should be created at output/book.html
 
